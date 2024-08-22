@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cahya ramadani
-
+- 👋 Hi, I’m cahya ramadani
+- 🌱 I’m currently learning fullstack development using Mysql, Express, React and Node.
 
 <!---
 crd8/crd8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
